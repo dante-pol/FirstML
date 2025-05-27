@@ -8,3 +8,6 @@ def main():
         time.sleep(0.25)
 
 main()
+
+def summ(a,b):
+    return a + b
