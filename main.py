@@ -9,6 +9,15 @@ def main():
 
 main()
 
+
+def sum(a, b):
+    
+    return a + b
+
+def multi(a,b):
+
+    return a * b
+
 def summ(a,b):
     return a + b
 
